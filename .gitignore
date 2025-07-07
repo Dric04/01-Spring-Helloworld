@@ -29,5 +29,15 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers de test HTTP
+*.http
+
 ### VS Code ###
 .vscode/
